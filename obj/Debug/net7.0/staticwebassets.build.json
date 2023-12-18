@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "Z+MUbDZGxWoJE+Q4fqWSBYPqIRnWEIpVLQ0wV3rqvyY=",
+  "Source": "Shopping Chart",
+  "BasePath": "_content/Shopping Chart",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Shopping Chart\\wwwroot",
+      "Source": "Shopping Chart",
+      "ContentRoot": "C:\\Users\\THANH LE\\Documents\\hk3\\doc.net\\bai thi\\Shopping Chart\\Shopping Chart\\wwwroot\\",
+      "BasePath": "_content/Shopping Chart",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\THANH LE\\Documents\\hk3\\doc.net\\bai thi\\Shopping Chart\\Shopping Chart\\wwwroot\\css.css",
+      "SourceId": "Shopping Chart",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\THANH LE\\Documents\\hk3\\doc.net\\bai thi\\Shopping Chart\\Shopping Chart\\wwwroot\\",
+      "BasePath": "_content/Shopping Chart",
+      "RelativePath": "css.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css.css"
+    },
+    {
+      "Identity": "C:\\Users\\THANH LE\\Documents\\hk3\\doc.net\\bai thi\\Shopping Chart\\Shopping Chart\\wwwroot\\index.cshtml",
+      "SourceId": "Shopping Chart",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\THANH LE\\Documents\\hk3\\doc.net\\bai thi\\Shopping Chart\\Shopping Chart\\wwwroot\\",
+      "BasePath": "_content/Shopping Chart",
+      "RelativePath": "index.cshtml",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "wwwroot\\index.cshtml"
+    },
+    {
+      "Identity": "C:\\Users\\THANH LE\\Documents\\hk3\\doc.net\\bai thi\\Shopping Chart\\Shopping Chart\\wwwroot\\js.js",
+      "SourceId": "Shopping Chart",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\THANH LE\\Documents\\hk3\\doc.net\\bai thi\\Shopping Chart\\Shopping Chart\\wwwroot\\",
+      "BasePath": "_content/Shopping Chart",
+      "RelativePath": "js.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js.js"
+    }
+  ]
+}
